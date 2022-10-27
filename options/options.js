@@ -38,7 +38,7 @@ export const globalOptions = {
 };
 export const modulesOptions = {
   "@modules/app-menu": {
-    "title": "AppTest",
+    "title": "App Test",
     "copy": "Routes codes",
     "styles": styles
   }
